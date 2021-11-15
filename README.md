@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 My name is kikts and I am a web developer
 
-<img src="https://user-images.githubusercontent.com/73203561/141854709-80367517-65c2-488f-9fb2-6b95c2cc4805.jpeg" alt="Your image title" width="550"/>
+<img src="https://user-images.githubusercontent.com/73203561/141855913-a36bc4cb-4943-411d-9fb1-043d7df6cc1a.jpg" alt="Your image title" width="400" />
 
 ---
 ### Tech & Tools Preference
