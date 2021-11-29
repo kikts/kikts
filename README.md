@@ -40,4 +40,4 @@ My name is kikts and I am a web developer
 
 
 ### My stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kikts&show_icons=true&hide_border=true)
